@@ -1,1 +1,0 @@
-This project will be my journey through the Odin project and my learning of Web development.
